@@ -11,7 +11,7 @@ in society, as well as projects that ultimately impact human self-actualization.
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">StreetEats On-Demand Food Delivery</a> | <a href="http://bit.ly/2bCOx8u">Press Release</a></li>
+	<li><a href="https://github.com/austntatious/ordering-web-app">StreetEats On-Demand Food Delivery</a> | <a href="http://bit.ly/2bCOx8u">Press Release</a></li>
 	<li><a href="http://mindmetrics.io">MindMetrics Personality Analysis</a></li>
 </ul>
 
